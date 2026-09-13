@@ -1,16 +1,58 @@
-## Hi there 👋
+# Hi, I'm Nischala 
 
-<!--
-**nischalavenkataswamy/nischalavenkataswamy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 MSc Cybersecurity | University of York  
+🛡️ CySA+ | Security+ | CEH | C|CT  
+📍 Bengaluru, India  
+🎯 Targeting SOC Analyst roles at Palo Alto 
+   Networks, CrowdStrike and Cisco
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+Entry-level cybersecurity professional with 
+strong foundations in threat detection, 
+incident response, and security operations.
+
+Building hands-on experience through 
+self-directed security labs and projects 
+aligned with real SOC analyst workflows.
+
+---
+
+## 🔧 Technical Skills
+
+**SIEM:** Splunk, Microsoft Sentinel  
+**Frameworks:** MITRE ATT&CK, NIST CSF, 
+Cyber Kill Chain  
+**Tools:** Wireshark, Nmap, Volatility, Autopsy  
+**Languages:** Python, SPL, Bash  
+**Platforms:** Windows Server, Linux, Kali  
+
+---
+
+## 📁 Featured Projects
+
+| Project | Description |
+|---------|-------------|
+| [Splunk SOC Lab](./splunk-lab) | SIEM detections mapped to MITRE ATT&CK |
+| [AD Attack and Defence](./active-directory-lab) | Kerberoasting, Pass-the-Hash, Golden Ticket |
+| [Python Security Scripts](./python-for-security) | IOC checker, log parser, hash verifier |
+| [Threat Hunting](./threat-hunting) | Hypothesis-driven hunting exercises |
+| [SOC Home Lab](./soc-home-lab) | Complete SOC environment setup |
+
+---
+
+## 📜 Certifications
+
+- ✅ CompTIA CySA+ (CS0-003)
+- ✅ CompTIA Security+
+- ✅ CEH — EC-Council
+- ✅ C|CT — EC-Council
+- ✅ MSc Cybersecurity — University of York
+
+---
+
+## 📫 Let's Connect
+
+[![LinkedIn](www.linkedin.com/in/nischala-venkataswamy)
