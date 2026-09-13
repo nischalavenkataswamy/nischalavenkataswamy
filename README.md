@@ -3,8 +3,8 @@
 🎓 MSc Cybersecurity | University of York  
 🛡️ CySA+ | Security+ | CEH | C|CT  
 📍 Bengaluru, India  
-🎯 Targeting SOC Analyst roles at Palo Alto 
-   Networks, CrowdStrike and Cisco
+🎯 Open to SOC Analyst and Security Analyst 
+   opportunities across Bengaluru and Remote
 
 ---
 
