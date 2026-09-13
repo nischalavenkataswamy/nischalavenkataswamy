@@ -55,4 +55,4 @@ Cyber Kill Chain
 
 ## 📫 Let's Connect
 
-[![LinkedIn](www.linkedin.com/in/nischala-venkataswamy)
+(www.linkedin.com/in/nischala-venkataswamy)
